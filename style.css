@@ -6,12 +6,12 @@
 }
 
 body{
-    min-height: 100vh;
+    /* min-height: 100vh; */
 }
 
 .container{
     width: 100%;
-    min-height: 100vh;
+    /* min-height: 100vh; */
     background-color: #fff;
     display: grid;
     grid-template-columns: 25% 1fr;
